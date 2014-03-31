@@ -1,3 +1,13 @@
+XSL View
+========
+
+Try module ModuleWithXsl.
+
+To get page XML add `?xml` to URL: [http://zf2-tutorial.localhost/xsl-example?xml](http://zf2-tutorial.localhost/xsl-example?xml).
+
+You are very welcome to comment and suggest any improvements. 
+
+
 ZendSkeletonApplication
 =======================
 
